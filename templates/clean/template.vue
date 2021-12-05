@@ -5,7 +5,6 @@
 <style lang="less" scoped></style>
 
 <script>
-import Vue from "vue";
 
 export default {};
 </script>
